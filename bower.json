@@ -1,0 +1,16 @@
+{
+  "name": "first-bower-bootstrap-app",
+  "version": "0.0.0",
+  "license": "EPL v1",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies" : {
+  	"jquery" : "*",
+  	"bootstrap" : "*"
+  }
+}
